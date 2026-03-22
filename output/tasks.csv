@@ -1,0 +1,10 @@
+employee,role,action,system,task,owner,status
+Jane Smith,Support Engineer,Onboarding,Email / Google Workspace,Create email account and assign baseline groups,IT Admin,pending
+Jane Smith,Support Engineer,Onboarding,SSO / Okta,Provision SSO account and assign baseline applications,IT Admin,pending
+Jane Smith,Support Engineer,Onboarding,Azure AD,Add user to Azure AD and assign required groups,IT Admin,pending
+Jane Smith,Support Engineer,Onboarding,Laptop / Device,"Provision device, enroll in MDM, and verify baseline security controls",IT Admin,pending
+Jane Smith,Support Engineer,Onboarding,Password Manager,Create account and assign the correct vaults,IT Admin,pending
+Jane Smith,Support Engineer,Onboarding,Slack / Teams,Add user to workspace and join relevant channels,IT Admin,pending
+Jane Smith,Support Engineer,Onboarding,Zendesk,"Create agent account and assign groups, views, and macros",Support Lead,pending
+Jane Smith,Support Engineer,Onboarding,Intercom,Add user to inbox and assign conversation routing rules,Support Lead,pending
+Jane Smith,Support Engineer,Onboarding,Loom,Add user to the team workspace for async walkthroughs,IT Admin,pending
