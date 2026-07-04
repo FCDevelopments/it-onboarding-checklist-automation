@@ -1,0 +1,10 @@
+employee,role,action,system,task,owner,status
+Alex Rivera,IT Administrator,Offboarding,Email / Google Workspace,"Suspend email account, delegate mailbox if needed, and archive data",IT Admin,pending
+Alex Rivera,IT Administrator,Offboarding,SSO / Okta,Disable SSO account and revoke application assignments,IT Admin,pending
+Alex Rivera,IT Administrator,Offboarding,Azure AD,"Block sign-in, remove group access, and review shared resources",IT Admin,pending
+Alex Rivera,IT Administrator,Offboarding,Laptop / Device,"Collect device, wipe if approved, and update asset inventory",IT Admin,pending
+Alex Rivera,IT Administrator,Offboarding,Password Manager,"Suspend account, remove vault access, and rotate sensitive shared credentials if needed",IT Admin,pending
+Alex Rivera,IT Administrator,Offboarding,Slack / Teams,Deactivate account and transfer ownership of critical channels or bots if needed,IT Admin,pending
+Alex Rivera,IT Administrator,Offboarding,Unifi / Network Console,Revoke admin access to network management tools and review audit logs,IT Lead,pending
+Alex Rivera,IT Administrator,Offboarding,1Password Teams,Remove vault access and rotate sensitive credentials if warranted,IT Lead,pending
+Alex Rivera,IT Administrator,Offboarding,GitHub Org,"Remove user from the GitHub org, teams, and personal access paths",IT Lead,pending

@@ -1,0 +1,10 @@
+employee,role,action,system,task,owner,status
+Alex Rivera,IT Administrator,Onboarding,Email / Google Workspace,Create email account and assign baseline groups,IT Admin,pending
+Alex Rivera,IT Administrator,Onboarding,SSO / Okta,Provision SSO account and assign baseline applications,IT Admin,pending
+Alex Rivera,IT Administrator,Onboarding,Azure AD,Add user to Azure AD and assign required groups,IT Admin,pending
+Alex Rivera,IT Administrator,Onboarding,Laptop / Device,"Provision device, enroll in MDM, and verify baseline security controls",IT Admin,pending
+Alex Rivera,IT Administrator,Onboarding,Password Manager,Create account and assign the correct vaults,IT Admin,pending
+Alex Rivera,IT Administrator,Onboarding,Slack / Teams,Add user to workspace and join relevant channels,IT Admin,pending
+Alex Rivera,IT Administrator,Onboarding,Unifi / Network Console,Grant admin access to network management tools with the correct role,IT Lead,pending
+Alex Rivera,IT Administrator,Onboarding,1Password Teams,Assign user to the IT vault with the correct permissions,IT Lead,pending
+Alex Rivera,IT Administrator,Onboarding,GitHub Org,Add user to the GitHub org and relevant teams,IT Lead,pending
